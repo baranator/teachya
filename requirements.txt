@@ -1,3 +1,5 @@
 # used frameworks
 falcon
+falcon-auth
+falcon-autocrud
 SQLAlchemy
